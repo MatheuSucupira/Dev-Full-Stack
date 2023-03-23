@@ -1,0 +1,31 @@
+body{
+    background-image: url(background.png);
+    /*background-repeat: no-repeat;*/
+    /*background-position: 1% 1%;*/
+    /*background-size: cover;*/
+    background-attachment: fixed;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+a{
+    color: rgb(1, 22, 255);
+}
+
+h3{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+p{
+    color: white;
+}

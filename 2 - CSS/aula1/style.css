@@ -1,0 +1,19 @@
+body{
+    background: rgb(124, 46, 46);
+}
+
+.branco{
+    color: white;
+}
+
+.foto{
+    width: 200px;
+}
+
+h3{
+    color: white;
+}
+
+#titulo_principal{
+    color: yellow;
+}

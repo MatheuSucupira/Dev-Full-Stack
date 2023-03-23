@@ -1,0 +1,8 @@
+body{
+    background: rgb(137, 137, 135);
+}
+
+.foto-principal{
+    border: 5px double white;
+    border-radius: 50% 15% 15% 50%;
+}
